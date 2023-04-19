@@ -1,0 +1,1 @@
+{"mappings":"AEAA","sources":["index.fb2111b6.css","src/sass/index.scss","src/sass/_test.scss"],"sourcesContent":["body {\n  background-color: red;\n}\n\n/*# sourceMappingURL=index.fb2111b6.css.map */\n","@import './test';\n","body {\n  background-color: red;\n}\n"],"names":[],"version":3,"file":"index.fb2111b6.css.map"}
